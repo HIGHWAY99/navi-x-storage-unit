@@ -30,6 +30,6 @@ URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/Playlists/scripts
 #
 type=text
 name=XBMCHUB Notes
-thumb=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/art/icon-xbmchub.png
+thumb=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/art/button-xbmchub.png
 URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/Playlists/hubnotes.txt
 #
