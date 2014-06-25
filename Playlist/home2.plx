@@ -26,5 +26,5 @@ URL=myxbmc.plx
 type=playlist
 name=Updates (3.7.8)
 thumb=http://navi-x.googlecode.com/svn/trunk/Playlists/navixlogo.png
-URL=http://navi-x.googlecode.com/svn/trunk/Playlists/scripts.plx
+URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/Playlists/scripts.plx
 #

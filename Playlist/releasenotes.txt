@@ -1,0 +1,19 @@
+Changes Navi-X 3.8.0
+
+-Location change for initial home2.plx playlist.
+
+-Optional Local UrlResolver usage.  This option is in addon settings for now.
+
+-XBMCHub Repo installer.
+
+-Version Update News Window.
+
+-Added Easy Exit button on skin.
+
+-Attempt to make Navi-X work somewhat off of cache and local stuff even when the site is down.
+
+-anti-freeze tweak(s).
+
+-Several minor bug fixes and improvements.
+
+
