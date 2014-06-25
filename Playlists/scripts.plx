@@ -5,7 +5,15 @@ title=Navi-X updates
 
 type=script:navi-x
 name=Navi-X v3.8.0 (All XBMC platforms)
-URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-v38_0.zip
+URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-v3.8.0.zip
+
+type=script:navi-x
+name=Navi-X v3.8.0.012 (for Testers)
+URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-v3.8.0.testing012.zip
+
+type=script:navi-x
+name=Navi-X v3.8.0.011 (for Testers)
+URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-v3.8.0.testing011.zip
 
 type=script:navi-x
 name=Navi-X v3.7.8 (All XBMC platforms)
