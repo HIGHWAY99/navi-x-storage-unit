@@ -28,3 +28,8 @@ name=Updates (3.8.0)
 thumb=http://navi-x.googlecode.com/svn/trunk/Playlists/navixlogo.png
 URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/Playlists/scripts.plx
 #
+type=text
+name=XBMCHUB Notes
+thumb=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/art/icon-xbmchub.png
+URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/Playlists/hubnotes.txt
+#
