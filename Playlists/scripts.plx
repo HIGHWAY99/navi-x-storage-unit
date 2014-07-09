@@ -4,8 +4,8 @@ logo=http://navi-x.googlecode.com/svn/trunk/Playlists/navixlogo.png
 title=Navi-X updates
 
 type=script:navi-x
-name=Navi-X v3.8.1.001 (For Testers)
-URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-3.8.1.001.zip
+name=Navi-X v3.8.2 (All XBMC platforms)
+URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-3.8.2.zip
 
 type=script:navi-x
 name=Navi-X v3.8.1 (All XBMC platforms)
@@ -14,18 +14,6 @@ URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-3.8.
 type=script:navi-x
 name=Navi-X v3.8.0 (All XBMC platforms)
 URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-3.8.0.zip
-
-type=script:navi-x
-name=Navi-X v3.8.0.013 (for Testers)
-URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-v3.8.0.testing013.zip
-
-type=script:navi-x
-name=Navi-X v3.8.0.012 (for Testers)
-URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-v3.8.0.testing012.zip
-
-type=script:navi-x
-name=Navi-X v3.8.0.011 (for Testers)
-URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-v3.8.0.testing011.zip
 
 type=script:navi-x
 name=Navi-X v3.7.8 (All XBMC platforms)

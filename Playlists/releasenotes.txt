@@ -1,3 +1,9 @@
+Changes Navi-X 3.8.2
+-UserData / Profile folder usage.
+-XBMC4XBOX fixes.
+-SmartCache adjustment.
+-Skins adjustments.
+
 Changes Navi-X 3.8.1
 -fix avoid xbmc skins that tried to customize old skin files globally.
 
