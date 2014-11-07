@@ -8,6 +8,14 @@ title=Navi-X updates for Testers
 #URL=http://offshoregit.com/navixtreme/navi-x-support-files/raw/master/files/Navi-X-3.8.3.zip
 
 type=script:navi-x
+name=Navi-X v3.8.2.005 (for Testers) - Merged 003 004 and added more.
+URL=http://offshoregit.com/navixtreme/navi-x-support-files/raw/master/files/Navi-X-3.8.2.005.zip
+
+type=script:navi-x
+name=Navi-X v3.8.2.004 (for Testers) - CRZEN
+URL=http://offshoregit.com/navixtreme/navi-x-support-files/raw/master/files/Navi-X-3.8.2.004.zip
+
+type=script:navi-x
 name=Navi-X v3.8.2.003 (for Testers) - Gotham+Helix Alignment
 URL=http://offshoregit.com/navixtreme/navi-x-support-files/raw/master/files/Navi-X-3.8.2.003.zip
 
