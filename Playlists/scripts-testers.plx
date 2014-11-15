@@ -5,31 +5,35 @@ title=Navi-X updates for Testers
 
 #type=script:navi-x
 #name=Navi-X v3.8.3 (All XBMC platforms)
-#URL=http://offshoregit.com/navixtreme/navi-x-support-files/raw/master/files/Navi-X-3.8.3.zip
+#URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-3.8.3.zip
+
+type=script:navi-x
+name=Navi-X v3.8.2.007 (for Testers) - Addons Protocol
+URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-3.8.2.007.zip
 
 type=script:navi-x
 name=Navi-X v3.8.2.006 (for Testers) - Type Improvements
-URL=http://offshoregit.com/navixtreme/navi-x-support-files/raw/master/files/Navi-X-3.8.2.006.zip
+URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-3.8.2.006.zip
 
 type=script:navi-x
 name=Navi-X v3.8.2.005 (for Testers) - Merged 003 004 and added more.
-URL=http://offshoregit.com/navixtreme/navi-x-support-files/raw/master/files/Navi-X-3.8.2.005.zip
+URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-3.8.2.005.zip
 
 type=script:navi-x
 name=Navi-X v3.8.2.004 (for Testers) - CRZEN
-URL=http://offshoregit.com/navixtreme/navi-x-support-files/raw/master/files/Navi-X-3.8.2.004.zip
+URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-3.8.2.004.zip
 
 type=script:navi-x
 name=Navi-X v3.8.2.003 (for Testers) - Gotham+Helix Alignment
-URL=http://offshoregit.com/navixtreme/navi-x-support-files/raw/master/files/Navi-X-3.8.2.003.zip
+URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-3.8.2.003.zip
 
 type=script:navi-x
 name=Navi-X v3.8.2.002 (for Testers) - Color Adjustments + RightMenu
-URL=http://offshoregit.com/navixtreme/navi-x-support-files/raw/master/files/Navi-X-3.8.2.002.zip
+URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-3.8.2.002.zip
 
 type=script:navi-x
 name=Navi-X v3.8.2.001 (for Testers) - Navi-COLOR-Xtreme!
-URL=http://offshoregit.com/navixtreme/navi-x-support-files/raw/master/files/Navi-X-3.8.2.001.zip
+URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-3.8.2.001.zip
 
 type=script:navi-x
 name=Navi-X v3.8.2 (All XBMC platforms)
