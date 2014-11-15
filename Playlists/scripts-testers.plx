@@ -8,6 +8,10 @@ title=Navi-X updates for Testers
 #URL=http://offshoregit.com/navixtreme/navi-x-support-files/raw/master/files/Navi-X-3.8.3.zip
 
 type=script:navi-x
+name=Navi-X v3.8.2.006 (for Testers) - Type Improvements
+URL=http://offshoregit.com/navixtreme/navi-x-support-files/raw/master/files/Navi-X-3.8.2.006.zip
+
+type=script:navi-x
 name=Navi-X v3.8.2.005 (for Testers) - Merged 003 004 and added more.
 URL=http://offshoregit.com/navixtreme/navi-x-support-files/raw/master/files/Navi-X-3.8.2.005.zip
 
