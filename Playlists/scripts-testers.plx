@@ -8,6 +8,10 @@ title=Navi-X updates for Testers
 #URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-3.8.3.zip
 
 type=script:navi-x
+name=Navi-X v3.8.2.008 (for Testers) - Graphics Login Sahara Colors
+URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-3.8.2.008.zip
+
+type=script:navi-x
 name=Navi-X v3.8.2.007 (for Testers) - Addons Protocol
 URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-3.8.2.007.zip
 
