@@ -8,6 +8,10 @@ title=Navi-X updates for Testers
 #URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-3.8.3.zip
 
 type=script:navi-x
+name=Navi-X v3.8.2.019 (for Testers) - error handling galore
+URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-3.8.2.019.zip
+
+type=script:navi-x
 name=Navi-X v3.8.2.018 (for Testers) - .plx downloads and more error handling
 URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-3.8.2.018.zip
 
