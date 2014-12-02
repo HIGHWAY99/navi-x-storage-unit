@@ -8,6 +8,18 @@ title=Navi-X updates for Testers
 #URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-3.8.3.zip
 
 type=script:navi-x
+name=Navi-X v3.8.2.025 (for Testers) - Skin Options
+URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-3.8.2.025.zip
+
+type=script:navi-x
+name=Navi-X v3.8.2.024 (for Testers) - Search History
+URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-3.8.2.024.zip
+
+type=script:navi-x
+name=Navi-X v3.8.2.023 (for Testers) - Playlist and addon.xml
+URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-3.8.2.023.zip
+
+type=script:navi-x
 name=Navi-X v3.8.2.022 (for Testers) - import failure on helix
 URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-3.8.2.022.zip
 
