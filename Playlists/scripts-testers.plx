@@ -8,6 +8,10 @@ title=Navi-X updates for Testers
 #URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-3.8.3.zip
 
 type=script:navi-x
+name=Navi-X v3.8.2.029 (for Testers) - browse and addon.xml without
+URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-3.8.2.029.zip
+
+type=script:navi-x
 name=Navi-X v3.8.2.028 (for Testers) - addon.xml without
 URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-3.8.2.028.zip
 
