@@ -1,6 +1,7 @@
 version=1
 title=Navi-X Home
 view=thumbnails
+expires=72
 #
 type=playlist
 name=Navi-Xtreme Portal
@@ -29,7 +30,7 @@ thumb=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/art/button-tvad
 URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/Playlists/hubnotes.txt
 #
 type=playlist
-name=Updates (3.8.2)
+name=Updates
 thumb=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/art/navixlogo.png
 URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/Playlists/scripts.plx
 #
