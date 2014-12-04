@@ -1,25 +1,15 @@
-Changes Navi-X 3.8.2
--UserData / Profile folder usage.
--XBMC4XBOX fixes.
--SmartCache adjustment.
--Skins adjustments.
-
-Changes Navi-X 3.8.1
--fix avoid xbmc skins that tried to customize old skin files globally.
-
-Changes Navi-X 3.8.0
--Much thanks for help and input to:  Eleazar Coding, Crzen, BlazeTamer, and The Highway.
--Local UrlResolver set to be used first by default.  This makes some of the other UrlResolver code attitions nearly useless now.  But it was needed to support extra host handled by UrlResolver.
--protocol:// label, so you can see and watch out for any that aren't supported by your OS / Device.
--Attempt to use cached files when catching a blank or title-header-only playlist.
--Play with UrlResolver... context menu item.
--TextWindow Method changed as the old one caused android user(s) to crash.
--Location change for initial home2.plx playlist.
--Optional Local UrlResolver usage.  This option is in addon settings for now.
--XBMCHub Repo installer.
--Navi-X can now be found in both Program Addons and Video Addons.
--Version Update News Window.
--Added Easy Exit button on skin.
--Attempt to make Navi-X work somewhat off of cache and local stuff even when the site is down.
--anti-freeze tweak(s).
--Several minor bug fixes and improvements.
+3.8.3
+Additional color schemes in addon settings.
+More options in addon settings.
+Skin folder for 1080i (several skins).
+Untested Skin folder for 4x3Hirez and 16x9 (re-touch skin).
+* Could use help with adjusting positions on 4x3Hirez and 16x9.
+Several changes to graphics.
+Improvements to "Browse" in left panel.
+SmartCache improvements.
+Much more error handling.
+Home Playlist locations.
+Tons of internal code fixed and cleaned up.
+More Local Playlist file extensions added.
+Slight XML Playlist compatibility for using playlists from stuff like LiveStream, LiveStreamPro, Cliq!, Phoenix.
+Much more....
