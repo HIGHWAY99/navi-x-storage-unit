@@ -8,6 +8,10 @@ title=Navi-X updates for Testers
 #URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-3.8.3.zip
 
 type=script:navi-x
+name=Navi-X v3.8.2.034 (for Testers) - icon, skins
+URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-3.8.2.034.zip
+
+type=script:navi-x
 name=Navi-X v3.8.2.033 (for Testers) - github adjustment
 URL=http://raw.github.com/HIGHWAY99/navi-x-storage-unit/master/files/Navi-X-3.8.2.033.zip
 
