@@ -2,6 +2,8 @@ version=1
 title=Navi-X Home
 view=thumbnails
 expires=72
+version=9
+
 #
 type=playlist
 name=Navi-Xtreme Portal
